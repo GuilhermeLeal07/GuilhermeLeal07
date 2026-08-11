@@ -88,6 +88,8 @@ Meu objetivo é evoluir constantemente como desenvolvedor e, futuramente, atuar 
 
 ---
 
-<p align="center">
-  <i>💡 "Construindo conhecimento, um projeto de cada vez."</i>
-</p>
+<div align="center">
+<p>Aprender todos os dias, construir com consistência, evoluir a cada projeto.</p>
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
+</div>
