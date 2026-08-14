@@ -1,4 +1,6 @@
-<h1 align="center">Guilherme Leal</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=500&color=DCDCDC&center=true&vCenter=true&width=435&lines=Guilherme+Leal" alt="Typing SVG" /></a>  
+</h1>
 
 <p align="center">
   <b>Desenvolvedor Front-end em formação | Estudante de Ciência da Computação</b><br/>
