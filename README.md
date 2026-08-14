@@ -51,7 +51,7 @@ Meu objetivo é evoluir constantemente como desenvolvedor e, futuramente, atuar 
 **🛠️ Ferramentas**
 
 <p>
-   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
@@ -77,5 +77,5 @@ Meu objetivo é evoluir constantemente como desenvolvedor e, futuramente, atuar 
 <div align="center">
 <p>Aprender todos os dias, construir com consistência, evoluir a cada projeto.</p>
  
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:E0FFFF,50:22D3EE,100:0891B2&section=footer" width="100%"/>
 </div>
