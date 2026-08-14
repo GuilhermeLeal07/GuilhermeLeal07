@@ -33,32 +33,25 @@ Meu objetivo é evoluir constantemente como desenvolvedor e, futuramente, atuar 
 **🌐 Front-end**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 **🐍 Linguagens**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=js,py,c" />
 </p>
 
 **🗄️ Banco de Dados**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=postgres" />  
 </p>
 
 **🛠️ Ferramentas**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -66,10 +59,7 @@ Meu objetivo é evoluir constantemente como desenvolvedor e, futuramente, atuar 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLeal07&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLeal07&layout=compact&theme=github_dark&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeLeal07&theme=github-dark&hide_border=true" height="170"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GuilhermeLeal07&theme=dark-smoky&hide_border=falso&short_numbers=falso" alt="GitHub Streak" /></a>
 </div>
 
 ---
@@ -80,7 +70,6 @@ Meu objetivo é evoluir constantemente como desenvolvedor e, futuramente, atuar 
   <a href="https://www.linkedin.com/in/guilherme-batista-leal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <!-- Se tiver, adicione também: e-mail, portfólio pessoal, Instagram dev, etc. -->
 </p>
 
 ---
