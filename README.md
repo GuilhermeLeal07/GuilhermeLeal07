@@ -57,9 +57,8 @@ Meu objetivo é evoluir constantemente como desenvolvedor e, futuramente, atuar 
 ---
 
 ## 📊 Estatísticas
-
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GuilhermeLeal07&theme=dark-smoky&hide_border=falso&short_numbers=falso" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="./streak.svg" alt="GitHub Streak" /></a>
 </div>
 
 ---
