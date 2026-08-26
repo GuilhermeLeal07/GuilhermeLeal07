@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Desenvolvedor Front-end em formação | Estudante de Ciência da Computação</b><br/>
+  <b>Desenvolvedor em formação | Estudante de Ciência da Computação</b><br/>
   <i>Transformando conhecimento em projetos, um commit de cada vez.</i>
 </p>
 
